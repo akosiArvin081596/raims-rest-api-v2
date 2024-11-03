@@ -1,0 +1,9 @@
+1.) Register Test Admin User /
+2.) Register LGU Users /
+3.) Register Social Worker Users /
+4.) Register Delivery Users /
+5.) Add LGUs /
+6.) Assign Social Worker to LGU /
+6.) Request Items /
+7.) Assign Request to Delivery User
+8.) Update Delivery Status

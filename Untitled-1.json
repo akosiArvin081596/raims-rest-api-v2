@@ -1,0 +1,42 @@
+[
+    {
+        "id" : 1,
+        "name": "test name",
+        "email": "testadmin@dswd.gov.ph",
+        "password": "mlskcytr15",
+        "role" : "admin",
+        "login_details" : {
+            "token" : "1|C2nFEbBcHR0eLBGJFlmbzc8fQwO6UISwamXt9DyR07beea93"
+        }
+    },
+    {
+        "id" : 2,
+        "name": "roger ongue",
+        "email": "rogerongue@gmail.com",
+        "password": "rogerongue",
+        "role" : "lgu-user",
+        "login_details" : {
+            "token" : "2|PDjuCxerwJXI05umkcKKhTzRC76s8mbqpbh7ggLqe5d92fa8"
+        }
+    },
+    {
+        "id" : 3,
+        "name": "jane doe",
+        "email": "jane.doe@gmail.com",
+        "password": "janedoe123",
+        "role" : "social-worker",
+        "login_details" : {
+            "token" : "3|vCgmvSVd7rzd4oJlVnxLr7pFHfJh8YMMMiNrZsoK2a0a7124"
+        }
+    },
+    {
+        "id" : 4,
+        "name": "arvin edubas",
+        "email": "arvinedubas@gmail.com",
+        "password": "arvinedubas",
+        "role" : "delivery-user",
+        "login_details" : {
+            "token" : ""
+        }
+    }
+]
